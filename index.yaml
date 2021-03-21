@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kafka-connect:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-21T15:06:09.196768+05:30"
+    description: Helm Chart for kafka connect with splunk connector
+    digest: cfc6927245282b6535081aa73e108cec6a7965a83a5d6d8c0c258f9d3fb55844
+    name: kafka-connect
+    type: application
+    urls:
+    - https://anusha718.github.io/helm-chart/kafka-connect-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-21T15:06:09.196026+05:30"
